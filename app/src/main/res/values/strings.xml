@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Generation App</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="major_hint">Major</string>
+    <string name="favAct_hint">Favorite Activities</string>
+    <string name="school_hint">School</string>
+    <string name="rb_BS">BS</string>
+    <string name="rb_BA">BA</string>
+    <string name="rb_MS">MS</string>
+    <string name="send_button">Submit</string>
+    <string-array name="grad_year">
+        <item>2010</item>
+        <item>2011</item>
+        <item>2012</item>
+        <item>2013</item>
+        <item>2014</item>
+        <item>2015</item>
+        <item>2016</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+    </string-array>
+</resources>
